@@ -17,4 +17,4 @@ El mapa de redes tiene la intención de mostrar de forma visual las conexiones q
 - Reconocimiento por el Comité Olímpico Internacional
 - Si es un deporte individual o de equipos
 
-Las líneas que conectan cada uno de los nodos indican que hay al menos un elemento en común entre
+Las líneas que conectan cada uno de los nodos indican que hay al menos un elemento en común entre los dos elementos. La totalidad de los atributos de cada nodo, así como las imágenes que los representan, se pueden consultar haciendo clic sobre estos.
