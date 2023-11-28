@@ -3,6 +3,7 @@ layout: post
 title: "Los paralelos entre esports y deporte tradicional"
 categories: misc
 ---
+<div style='text-align: justify;'>
 El proyecto final del curso tiene como intención mostrar a un público ajeno a los deportes electrónicos los sentimientos y las emociones que pueden atravesar los jugadores durante los encuentros deportivos y que a menudo son capturadas en forma de fotografía. Para ello, se decidió trazar paralelos entre ciertas instancias del deporte electrónico que pudiesen verse reflejadas en el deporte que será denominado como “tradicional” para efectos de este proyecto.
 
 Se entiende como tradicional al deporte físico que normalmente es visto por las personas, ya sea de forma presencial o a través de la televisión. Es, por ponerlo de una manera sencilla, lo primero que se viene a la cabeza al pensar en hacer deporte: fútbol, baloncesto, gimnasia. Resulta extraño aplicar la categoría de deporte a un videojuego. Sin embargo, desde principios de la década de los 2000, y especialmente entre los 10s y los 20s, la competencia electrónica ha crecido hasta el punto en el que resulta interesante preguntarse acerca de la constitución de esta como un deporte. 
@@ -20,3 +21,4 @@ El mapa de redes tiene la intención de mostrar de forma visual las conexiones q
 - Si es un deporte individual o de equipos
 
 Las líneas que conectan cada uno de los nodos indican que hay al menos un elemento en común entre los dos elementos. La totalidad de los atributos de cada nodo, así como las imágenes que los representan, se pueden consultar haciendo clic sobre estos.
+<div style='text-align: justify;'>
