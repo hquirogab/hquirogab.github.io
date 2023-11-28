@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Los paralelos entre esports y deporte tradicional"
+title: "Los paralelos entre el deporte tradicional y el deporte electrónico"
 categories: misc
 ---
 El proyecto final del curso tiene como intención mostrar a un público ajeno a los deportes electrónicos los sentimientos y las emociones que pueden atravesar los jugadores durante los encuentros deportivos y que a menudo son capturadas en forma de fotografía. Para ello, se decidió trazar paralelos entre ciertas instancias del deporte electrónico que pudiesen verse reflejadas en el deporte que será denominado como “tradicional” para efectos de este proyecto.
