@@ -10,8 +10,11 @@ Es de esta manera que aparece el termino <i>E-Sports</i>, englobando todos los j
 <div class="flourish-embed flourish-network" data-src="visualisation/15881669"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 El mapa de redes tiene la intención de mostrar de forma visual las conexiones que hay entre las once imágenes escogidas, partiendo de las siguientes categorías:
--Disciplina
--Sentimiento
--Premio
--Reconocimiento por el Comité Olímpico Internacional
--Si es un deporte individual o de equipos
+
+- Disciplina
+- Sentimiento
+- Premio
+- Reconocimiento por el Comité Olímpico Internacional
+- Si es un deporte individual o de equipos
+
+Las líneas que conectan cada uno de los nodos indican que hay al menos un elemento en común entre
