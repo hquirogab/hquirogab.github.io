@@ -1,11 +1,11 @@
 # Site settings
-title: daedalus
-SEOTitle: Daedalus
+title: parabellum
+SEOTitle: parabellum
 header-img: img/cat-home-bg.webp
 header-img-credit: "Henriëtte Ronner-Knip"
 header-img-credit-href: "https://artvee.com/dl/the-cat-at-play/"
 email: "joeljarcor@gmail.com"
-description: "Daedalus Blog"
+description: "parabellum blog"
 keyword: "Daedalus, Blog"
 url: "" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -15,11 +15,11 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: paranimias
-twitter_username: paranimias
+github_username: hquirogab
+twitter_username: p4rabellum_
 #facebook_username:  ~~~~~~~
 #linkedin_username:  firstname-lastname-idxxxx
-lastfm_username: JoelJarcor
+lastfm_username: hquiroga
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -75,8 +75,8 @@ ga_domain: ""
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Computer Scientist<br/>Linux and Vim enthusiast"
-sidebar-avatar: "/img/paranimias.webp"
+sidebar-about-description: "Historiador y fracasado profesional"
+sidebar-avatar: "/img/avatar.webp"
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -92,13 +92,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "Juan Huertas", href: "https://github.com/spartan14799/" },
-    { title: "Valentina 💘", href: "http://instagram.com/vaschita" },
-#     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-#     { title: "Kun Qian", href: "http://kunq.me" },
-#     { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-#     { title: "SmdCn", href: "http://blog.smdcn.net" },
-#     { title: "JiyinYiyong", href: "http://tiye.me/" },
-#     { title: "DHong Say", href: "http://dhong.co" },
-#     { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "Joel", href: "paranimias.github.io"}
 ]

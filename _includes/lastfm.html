@@ -48,7 +48,7 @@
 </div>
 
 <script>
-    const VERCEL_URL = "https://lastfm-proxy.vercel.app/api/now-playing";
+    const VERCEL_URL = "https://lastfm-proxy-ruddy.vercel.app/api/now-playing";
 
     function updateLastFm() {
         const statusEl = document.getElementById("lastfm-status");
@@ -81,7 +81,7 @@
                     statusEl.innerHTML = '<i class="fa fa-history"></i> RECENTLY PLAYED';
                 }
 
-                document.getElementById("lastfm-link").href = `https://www.last.fm/user/JoelJarcor`;
+                document.getElementById("lastfm-link").href = `https://www.last.fm/user/hquiroga`;
             })
             .catch(err => {
                 statusEl.innerText = "OFFLINE";
