@@ -1,5 +1,1 @@
-This little blog was created to:
-- Post rants
-- Journal projects
-- Talk about music
-- Have an excuse to use $ \LaTeX $
+In this blog I want to talk about history, music, videogames and, in general, everything that crosses my mind.

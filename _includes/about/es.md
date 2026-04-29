@@ -1,5 +1,1 @@
-Este pequeño blog fue hecho para:
-- Publicar rants
-- Documentar proyectos
-- Hablar de música
-- Tener una excusa para usar $ \LaTeX $
+En este blog quiero hablar de historia, musica, videojuegos, y, en general, lo que se me pase por la cabeza.
